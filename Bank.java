@@ -40,3 +40,18 @@ public class Bank{
   }
 
 }
+
+/*        Expected output 
+
+----- Zeus's Account Information -----
+The balance in Zeus's account is: $160
+Zeus's new balance is: $5000
+Monthly interest rate is: $150.0
+Account's new owner: Athena
+
+----- Hades's Account Information -----
+The balance in Hades's account is: $470
+New balance is: $2360
+Monthly interest rate is: $70.8
+
+*/
